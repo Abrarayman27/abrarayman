@@ -8,7 +8,7 @@ Designing intuitive digital experiences through user research, product thinking,
 
 <br>
 
-[Portfolio](https://abrarayman27.github.io/Nabta/) ·
+[Portfolio](https://abrarayman27.github.io/abrar-ayman-portfolio/) ·
 [LinkedIn](https://linkedin.com/in/abrar-ayman-9ba724222) ·
 [Behance](https://www.behance.net/abrarayman2) ·
 [Email](mailto:abrarayman81@gmail.com)
@@ -122,7 +122,7 @@ I'm interested in opportunities to contribute to meaningful digital products, co
 
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/abrar-ayman-9ba724222)
 - **Behance:** [Explore my design work](https://www.behance.net/abrarayman2)
-- **Portfolio:** [View my case studies](https://abrarayman27.github.io/Nabta/)
+- **Portfolio:** [View my case studies](https://abrarayman27.github.io/abrar-ayman-portfolio/)
 - **GitHub:** [Explore my repositories](https://github.com/abrarayman27)
 - **Email:** [abrarayman81@gmail.com](mailto:abrarayman81@gmail.com)
 
